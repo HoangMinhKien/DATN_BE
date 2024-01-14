@@ -1,0 +1,9 @@
+/.gradle/
+/.idea/
+/gradle/
+/logs/
+/build/
+/bin/
+*.vscode
+*.jar
+*.log

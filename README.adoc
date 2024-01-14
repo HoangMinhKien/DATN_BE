@@ -1,0 +1,24 @@
+= Talkhub 
+
+image:https://img.shields.io/badge/vert.x-4.4.1-purple.svg[link="https://vertx.io"]
+
+== Building
+
+To launch your tests:
+```
+./gradlew clean test
+```
+
+To package your application:
+```
+./gradlew clean assemble
+```
+
+To run your application:
+```
+./gradlew clean run
+```
+
+
+== ERD
+https://drive.google.com/file/d/1Z3FhhR4a7wcdWpYRwejZXUEND25ZtuFZ/view?usp=share_link

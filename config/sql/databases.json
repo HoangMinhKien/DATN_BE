@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "talkhub",
+    "jdbcUrl": "jdbc:mariadb://localhost//talkhub?characterEncoding=UTF-8",
+    "dataSource.database": "talkhub",
+    "dataSource.user": "mk",
+    "dataSource.password": "NJ$!@657543kjalq"
+  }
+]
